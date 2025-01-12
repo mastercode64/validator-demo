@@ -1,4 +1,4 @@
-package com.mastercode.validator.model
+package com.mastercode.validatordemo.model
 
 enum class OccurrenceType {
     ORDER,

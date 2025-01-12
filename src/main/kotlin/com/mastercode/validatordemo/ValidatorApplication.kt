@@ -1,4 +1,4 @@
-package com.mastercode.validator
+package com.mastercode.validatordemo
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

@@ -1,7 +1,7 @@
-package com.mastercode.validator.rules
+package com.mastercode.validatordemo.rules
 
-import com.mastercode.validator.model.Occurrence
-import com.mastercode.validator.model.ValidationError
+import com.mastercode.validatordemo.model.Occurrence
+import com.mastercode.validatordemo.model.ValidationError
 import org.springframework.stereotype.Component
 
 @Component
